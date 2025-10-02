@@ -97,9 +97,9 @@ cd EV-SQL-Analysis
 🌍 Expand dataset with global EV sales for comparison.
 
 ## 👨‍💻 Author
-Name : Chirag Nitin Jain 
-Email : cjain16202gmail.com
-LinkedIn Profile : https://www.linkedin.com/in/chirag-jain-4467b71b6/
+ Name : Chirag Nitin Jain  
+ Email : cjain16202gmail.com
+ LinkedIn Profile : https://www.linkedin.com/in/chirag-jain-4467b71b6/
 
 
 
