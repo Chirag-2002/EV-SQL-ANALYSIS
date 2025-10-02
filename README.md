@@ -80,9 +80,26 @@ performed well is Q1
 ##  5) How do the EV sales and penetration rates in Delhi compare to Karnataka for 2024? 
 
 <img width="538" height="117" alt="image" src="https://github.com/user-attachments/assets/074625f3-cef1-4b0b-bbb8-25101ce7b6be" />
-
 ----> As compare to delhi , karnataka penetration rate is higher means karnataka states are promoting or adopting EV more because of 
 they have to reduced pollution , make a state free from global warming , etc. 
+
+##  🚀 How to Use
+
+1. Clone this repository:
+git clone https://github.com/yourusername/EV-SQL-Analysis.git
+cd EV-SQL-Analysis
+2. Import data into MySQL (or your SQL engine).
+3. Run queries from the analysis/ folder.
+
+## 📌 Future Improvements
+📊 Add visualization dashboards in Power BI / Tableau.
+🔄 Automate SQL analysis with Python + SQL integration.
+🌍 Expand dataset with global EV sales for comparison.
+
+## 👨‍💻 Author
+Name : Chirag Nitin Jain 
+Email : cjain16202gmail.com
+LinkedIn Profile : https://www.linkedin.com/in/chirag-jain-4467b71b6/
 
 
 
