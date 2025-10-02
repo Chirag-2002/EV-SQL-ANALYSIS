@@ -40,15 +40,15 @@ Created views like revenue_growth_4w, bottom_3_makers, cagr_by_maker for quick q
 ##  1. List the top 3 and bottom 3 makers for the fiscal years 2023 and 2024 in terms of the number of 2-wheelers 
 ## sold. 
 
-<img width="300" height="118" alt="image" src="https://github.com/user-attachments/assets/fb1684ca-547d-4feb-be00-f0936ef80895" />
 ----> Bottom 3 makers are BATTRE ELECTRIC , JITENDRA and KINETIC GREEN .
+<img width="300" height="118" alt="image" src="https://github.com/user-attachments/assets/fb1684ca-547d-4feb-be00-f0936ef80895" />
 The below will be possible reason for being lowest 
 1) Price are high
 2) Giving poor mileage
 3) Bad quality in terms of design , speed , not much feature , etc
 
-<img width="281" height="141" alt="image" src="https://github.com/user-attachments/assets/52f207a9-e162-4471-b770-fb3208c4a5bd" />
 ----> Top 3 makers are OLA ELECTRIC , TVS , ATHER .
+<img width="281" height="141" alt="image" src="https://github.com/user-attachments/assets/52f207a9-e162-4471-b770-fb3208c4a5bd" />
 The below will be the possible reason for being highest
 1) Price are low
 2) Giving high mileage
