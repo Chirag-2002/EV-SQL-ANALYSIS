@@ -98,7 +98,7 @@ cd EV-SQL-Analysis
 
 ## 👨‍💻 Author
  Name : Chirag Nitin Jain  
- Email : cjain16202gmail.com
+ Email : cjain16202gmail.com  
  LinkedIn Profile : https://www.linkedin.com/in/chirag-jain-4467b71b6/
 
 
